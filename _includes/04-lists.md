@@ -1,1 +1,6 @@
-Replace this with a list of your favorite things.
+* Cats
+* Books
+* Beer
+  * Hoppy Ale
+  * Dark Ale
+* You
